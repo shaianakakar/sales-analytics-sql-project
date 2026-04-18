@@ -4,7 +4,6 @@
 This project demonstrates SQL-based sales analytics using a star schema data model. It includes KPI development, customer segmentation, product performance analysis, and business reporting using views.
 
 ---
-# 📊 SQL Sales Analytics & Data Warehouse Project
 
 ## 📌 Project Overview
 
