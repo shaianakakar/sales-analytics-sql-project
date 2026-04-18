@@ -1,5 +1,11 @@
 # 📊 SQL Sales Analytics & Data Warehouse Project
 
+## 🔗 Project Summary
+This project demonstrates SQL-based sales analytics using a star schema data model. It includes KPI development, customer segmentation, product performance analysis, and business reporting using views.
+
+---
+# 📊 SQL Sales Analytics & Data Warehouse Project
+
 ## 📌 Project Overview
 
 This project is a complete SQL-based data analytics solution built on a sales data warehouse. It transforms raw transactional data into structured business insights using SQL techniques such as CTEs, joins, aggregations, window functions, and KPI calculations.
